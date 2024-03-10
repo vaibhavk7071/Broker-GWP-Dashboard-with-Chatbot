@@ -72,7 +72,7 @@ The project is a brilliant fusion of Web Technologies - HTML, Bootstrap CSS and 
   - GitHub
   - npm
 
-[Chatbot Screenshot](https://discord.com/channels/@me/1216303542520905759/1216447626669457439)
+[Chatbot Screenshot](./screenshots/Home.png)
 
 The Dashboard displays the Top 10 brokers and data visualisation through a Pie Chart and a 'Business Class Premiums Data'. It also comes with a chatbot.
 The chatbot is built using 'FAISS'(Facebook AI Similarity Score) to create a knowledge base using the Excel Sheets data, which is then chained to the LLM using LangChain. The LLM uses a gpt-3.5-turbo-1106 model with hugging face embeddings.
