@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+deep-translator
+pandas
+openai
+pypdf
+sentence-transformers
+faiss-cpu
+rapidocr-onnxruntime
+streamlit
+flask
+openpyxl
