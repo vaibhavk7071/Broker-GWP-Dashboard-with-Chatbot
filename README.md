@@ -78,3 +78,9 @@ The Dashboard displays the Top 10 brokers and data visualisation through a Pie C
 The chatbot is built using 'FAISS'(Facebook AI Similarity Score) to create a knowledge base using the Excel Sheets data, which is then chained to the LLM using LangChain. The LLM uses a gpt-3.5-turbo-1106 model with hugging face embeddings.
 
 The project was made in collaboration with [Akshat Srivastava](https://github.com/Kazekage19) who helped me with the design and formatting of the dashboard.
+
+
+
+https://github.com/vaibhavk7071/Broker-GWP-Dashboard-with-Chatbot/assets/97465412/2fea9d74-07be-4b18-a267-8c085fc684e9
+
+
