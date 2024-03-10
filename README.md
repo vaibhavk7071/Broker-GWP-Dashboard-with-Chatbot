@@ -18,27 +18,27 @@ Make sure you have the following software installed on your system:
 
 1. Clone the repository to your local machine:
 
-    bash
+    ```bash
     git clone https://github.com/vaibhavk7071/Broker-GWP-Dashboard-with-Chatbot.git
-    
+    ```
 
 2. Navigate to the project directory:
 
-    bash
+    ```bash
     cd Broker-GWP-Dashboard-with-Chatbot
-    
+    ```
 
 3. Install frontend dependencies using npm:
 
-    bash
+    ```bash
     npm install
-    
+    ```
 
 4. Install backend dependencies using pip:
 
-    bash
+    ```bash
     pip install -r requirements.txt
-    
+    ```
 
 ### Usage
 
